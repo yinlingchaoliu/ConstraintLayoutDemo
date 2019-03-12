@@ -1,7 +1,7 @@
 
 学习鸿阳的练习题
 
-###### 1、自动添加约束(不推荐)
+#### 1、自动添加约束(不推荐)
 
 * Autoconnect 针对单个控件
 ![](https://upload-images.jianshu.io/upload_images/5526061-17c342b453d094e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -10,7 +10,7 @@
 
 点击一下即可，推荐Inference
 
-###### 二、手工写约束
+#### 二、手工写约束
 1、相对位置
 
 ![](https://upload-images.jianshu.io/upload_images/5526061-4be7f845416d2e59.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -276,12 +276,18 @@ layout_constraintVertical_bias
 
 Guideline
 
-####演示代码
+#### 演示代码
+
 https://github.com/yinlingchaoliu/ConstraintLayoutDemo
+
+下载apk
+
+https://raw.githubusercontent.com/yinlingchaoliu/ConstraintLayoutDemo/master/app-debug.apk
 
 ![demo效果](https://upload-images.jianshu.io/upload_images/5526061-b11545851fe1a74b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-####参考
+#### 参考
+
 [http://blog.csdn.net/lmj623565791/article/details/78011599](http://blog.csdn.net/lmj623565791/article/details/78011599) 
 本文出自[张鸿洋的博客](http://blog.csdn.net/lmj623565791/)
 
